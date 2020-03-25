@@ -1,0 +1,13 @@
+{
+  "title": "新概念英音第三册",
+  "sn": "037F",
+  "articles": [
+    {"title": "A puma at large", "titleTranslation": "逃遁的美洲狮", "order":"Lesson 1"},
+    {"title": "Thirteen equals one", "titleTranslation": "十三等于一", "order":"Lesson 2"},
+    {"title": "An unknown goddess", "titleTranslation": "无名女神", "order":"Lesson 3"},
+    {"title": "The double life of Alfred Bloggs", "titleTranslation": "阿尔弗雷德.布洛格斯的双重生活", "order":"Lesson 4"},
+    {"title": "The facts", "titleTranslation": "确切数字", "order":"Lesson 5"},
+    {"title": "Smash-and-grab", "titleTranslation": "砸橱窗抢劫", "order":"Lesson 6"},
+    {"title": "Mutilated ladies", "titleTranslation": "残钞鉴别组", "order":"Lesson 7"}
+  ]
+}
